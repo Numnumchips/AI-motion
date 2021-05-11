@@ -21,7 +21,6 @@ End of may will be a short talk with the profs, we should have atleast a plan by
 Hypothetical "Mobibox" takes commands in natural speech, executes them in airsim.
 Transform natural speech to text, classify text into commands, execute commands while avoiding obstacles, staying on road etc...
 
-![Alt text](./overview.svg)
 <img src="./overview.svg">
 
 
